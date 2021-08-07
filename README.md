@@ -5,6 +5,6 @@ caesar cipher crypte encrypte and decrypt programmed with python3.9
 
 
 please install pyfiglet
-### pip isntall pyfiglet
+### pip install pyfiglet
 
 and run the script
